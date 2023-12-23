@@ -1,2 +1,2 @@
 # Disable-Mouse
-Disable the mouse on the website
+Disable the mouse on the website.
